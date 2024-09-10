@@ -3692,7 +3692,7 @@ td:last-child {
     }
 
     .s-intro__content-title {
-        font-size: clamp(4.2rem, 8.2vw, 8.8rem);
+        font-size: clamp(2.2rem, 8vw, 8.8rem);
         color    : white;
     }
 
